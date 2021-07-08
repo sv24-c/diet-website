@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="diat-link.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="menu-bar">
+	<ul>
+		<li class="active"><a href="diat.html"><i class="fa fa-home"></i>Home</a></li>
+		<li><a href="#"><i class="fa fa-user"></i>About Us
+		<div class="sub-menu-1">
+			<ul>
+				<li><a href="AboutUs.html">Mission</li>
+				<li><a href="AboutUs.html">Vision</li>
+				<li><a href="AboutUs.html">Team</li>
+			</ul>
+		</div>   </a></li>
+	</ul>	
+</div>
+
+<br><br>
+<ul>
+	<li><h2> Our Mission is to make health & fit to all of you who has need to be fit and make good body.</h2></li><br><br>
+</ul>
+<ul>
+	<li><h2>Our Visio is clear that to provide legal and best tips and diet information to all of you.</h2></li><br><br>
+</ul>
+<ul>
+	<li><h2>We are S and A be remain enthuciastic all time to give the best dietery solutions at any time.</h2></li><br><br>
+</ul>
+</body>
+</html>
