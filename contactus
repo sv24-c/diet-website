@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact Us</title>
+	<link rel="stylesheet" type="text/css" href="diat-link.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="menu-bar">
+	<ul>
+		<li class="active"><a href="diat.html"><i class="fa fa-home"></i>Home</a></li>
+		
+		<li><a href="ContactUs.html"><i class="fa fa-phone"></i>Contact Us</a></li>
+	</ul>
+</div>
+<br><br>
+<ul>
+	<li>If any need of help from our side feel free to ask and contact us as possible.
+		Our Contact Number is _________. </li>
+</ul>
+
+</body>
+</html>
