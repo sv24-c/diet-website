@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Guidence</title>
+	<link rel="stylesheet" type="text/css" href="diat-link.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="menu-bar">
+	<ul>
+		<li class="active"><a href="diat.html"><i class="fa fa-home"></i>Home</a></li>
+
+		<li><a href="Guidence.html"><i class="fa fa-edit"></i>Guidence</a></li>
+	</ul>
+</div><br><br>
+
+Any suggetion from your side then please provide to us in <a href="ContactUs.html">contact us </a>.
+</body>
+</html>
