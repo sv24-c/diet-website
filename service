@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Services</title>
+	<link rel="stylesheet" type="text/css" href="diat-link.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="menu-bar">
+	<ul>
+		<li class="active"><a href="diat.html"><i class="fa fa-home"></i>Home</a></li>
+		
+		<li><a href="#"><i class="fa fa-clone"></i>Services
+		<div class="sub-menu-1">
+			<ul>
+				<li><a href="Services.html">Yoga</li>
+				<li><a href="Services.html">Diet Program</li>
+			</ul>
+		</div></a></li>
+	</ul>
+</div>
+<br><br>
+
+<h3>Here we are providing link for healthy yoga for daily life.</h3><br>
+<a href="https://yourstory.com/2017/02/7-yoga-asanas-good-health?utm_pageloadtype=scroll">Yoga </a><br><br>
+
+<h3>Here we are providing link for healthy diet list for daily life.</h3><br>
+<a href="https://www.nhlbi.nih.gov/health/educational/lose_wt/eat/calories.htm">Diet Plan </a>
+</body>
+</html>
